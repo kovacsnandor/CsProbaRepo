@@ -1,0 +1,8 @@
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\bin\Debug\probaRepo.exe.config
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\bin\Debug\probaRepo.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\bin\Debug\probaRepo.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\obj\Debug\probaRepo.csproj.AssemblyReference.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\obj\Debug\probaRepo.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\obj\Debug\probaRepo.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\obj\Debug\probaRepo.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2023-2024\12.d\c#\CsRepos\CsProbaRepo\probaRepo\probaRepo\obj\Debug\probaRepo.pdb
