@@ -10,6 +10,7 @@ namespace probaRepo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Heló");
         }
     }
 }
